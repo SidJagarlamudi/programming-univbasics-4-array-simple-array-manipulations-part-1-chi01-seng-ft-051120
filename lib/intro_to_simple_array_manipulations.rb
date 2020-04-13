@@ -1,3 +1,3 @@
-using_push (array, string) do 
-  a
+def using_push (array, string) 
+  
 end
