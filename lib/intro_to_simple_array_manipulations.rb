@@ -1,3 +1,3 @@
-using_push do 
-  array.push
+using_push (array, string) do 
+  a
 end
